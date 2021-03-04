@@ -2,3 +2,4 @@
  Primeiro repositório versionado
 
  Repositório criado numa aula ao vivo.
+Fantástico!
